@@ -37,5 +37,5 @@ Pengolahan dari data-data tersebut dapat dilakukan dengan bantuan beberapa softw
 
 ## Selamat Bekerja, semangat selalu!
 
-12922020_Darrell Simorangkir_Tugas PDK
+
 
