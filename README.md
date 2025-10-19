@@ -14,6 +14,28 @@ Dilakukan akuisisi data di Pulau Pramuka, Kabupaten Kepulauan Seribu. Berikut pa
 
 Pengolahan dari data-data tersebut dapat dilakukan dengan bantuan beberapa software, berikut tautannya.
 
-## Softwares
-
+## ArcGIS
 ```bash
+  https://pro.arcgis.com
+```
+## Google Colaboratory
+```bash
+  https://colab.google
+```
+## Surfer
+```bash
+  https://goldensoftware.com/support/download-install/
+```
+## Ocean Data View (ODV)
+```bash
+  https://odv.awi.de/software/download/
+```
+## MATLAB
+```bash
+  https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html
+```
+
+## Selamat Bekerja, semangat selalu!
+
+12922020_Darrell Simorangkir_Tugas PDK
+
